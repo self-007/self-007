@@ -5,7 +5,7 @@ Vision long terme, exécution propre.
 
 > *"Build. Ship. Secure. Repeat."* 🔥
 
-![Header GIF](https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif) <!-- Remplacer par ton GIF réel -->
+![Header GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif) <!-- Nouveau GIF header -->
 
 ---
 
